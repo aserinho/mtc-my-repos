@@ -8,10 +8,10 @@ Hi, I'm Alisher Serikali. Check out my repos!
 
 ## Projects
 
-| Project Name        | Web Page
-|---------------------------------------------------------------------------------------------------------------------------
-| mtc-backend-prod    | No Page
+| Project Name        | Web Page                                         | Link                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------|
+| mtc-backend-prod    | No Page                                          | [GitHub](https://github.com/aserinho/mtc-backend-prod) |
 
 ---
 
-2024 Alisher Serikali
+2025 Alisher Serikali
