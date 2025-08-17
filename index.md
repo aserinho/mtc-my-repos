@@ -10,7 +10,8 @@ Hi, I'm Name. Check out my repos!
 
 | Project Name        | Web Page                                         | Link                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------|
-| mtc-backend-prod    | No Page                                          | [GitHub](https://github.com/aserinho/mtc-backend-prod) |
+| mtc-backend-dev    | No Page                                       | [GitHub](https://github.com/aserinho/mtc-backend-dev.git) |
+| mtc-infra-dev    | No Page                                       | [GitHub](https://github.com/aserinho/mtc-infra-dev.git) |
 
 ---
 
