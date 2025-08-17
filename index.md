@@ -2,9 +2,9 @@
 
 ## About Me
 
-<img src="https://avatars.githubusercontent.com/u/79756941?v=4" style="width: 10%; height="auto;">
+<img src="https://avatars.githubusercontent.com/u/64531970?v=4" style="width: 10%; height="auto;">
 
-Hi, I'm Alisher Serikali. Check out my repos!
+Hi, I'm Name. Check out my repos!
 
 ## Projects
 
@@ -14,4 +14,4 @@ Hi, I'm Alisher Serikali. Check out my repos!
 
 ---
 
-2025 Alisher Serikali
+2025 Name
